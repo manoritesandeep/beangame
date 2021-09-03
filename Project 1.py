@@ -35,11 +35,6 @@ Created on Sat Jul 24 20:53:27 2021
 # At the end of the game (when there are no beans left), the main program 
 #will print the winning player.
 
-# Sandeep Solanki
-# Project assignment - 1
-# CS 601
-
-
 
 import random
 
